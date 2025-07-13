@@ -38,12 +38,6 @@
 - ⚙️ **Spring 기반 레거시 시스템 마이그레이션 및 구조 개선**
 - 🔍 **Kafka 기반 실시간 장애 탐지 시스템** 설계 및 PoC 개발
 
----
-
-## 📊 GitHub Stats
-
-![dlqhdnjs5's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlqhdnjs5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlqhdnjs5&layout=compact&theme=radical)
 
 ---
 
