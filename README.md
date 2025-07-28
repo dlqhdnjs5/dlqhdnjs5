@@ -51,4 +51,4 @@
 ---
 
 ## 📨 Contact
-- Email: dlqhdnjs5@gmail.com
+- Email: dlqhdnjs5@naver.com
