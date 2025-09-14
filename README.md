@@ -45,7 +45,7 @@
 ## 🧩 Side Projects
 | 프로젝트 | 설명 |
 |----------|------|
-| **Mukchoise** | 카카오맵 API 기반 맛집 랜덤 추천 서비스 |
+| **[Mukchoise](https://github.com/dlqhdnjs5/MukChoice)** | 카카오맵 API 기반 맛집 랜덤 추천 서비스 |
 | **[Nawago](https://github.com/dlqhdnjs5/nawago_project)** | 유기견,묘 소개 서비스 |
 
 ---
